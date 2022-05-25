@@ -1,0 +1,162 @@
+1. XOR test
+
+Epochs = 1000000
+Learning rate = 1.0
+Hidden units = 6
+
+
+Before Training:
+
+Target:	 [0]  Output:	 [0.82896348]
+Target:	 [1]  Output:	 [0.87081946]
+Target:	 [1]  Output:	 [0.85098961]
+Target:	 [0]  Output:	 [0.8863029]
+
+Training:
+
+ Error at Epoch:	100		  is 	0.4999004607777355
+ Error at Epoch:	1000	  is 	0.09690564026872003
+ Error at Epoch:	10000	  is 	0.017677056989886385
+ Error at Epoch:	100000	  is 	0.0044571056180262685
+ Error at Epoch:	1000000	  is 	0.0013139816203728582
+
+After Training :
+
+Target:	 [0]  Output:	 [0.00135947]
+Target:	 [1]  Output:	 [0.99864777]
+Target:	 [1]  Output:	 [0.99866937]
+Target:	 [0]  Output:	 [0.0012136]
+
+
+Accuracy = 0.9986860190475421
+
+-----------------------------------------------------------------------------
+
+Epochs = 1000000
+Learning rate = 0.75
+Hidden units = 6
+
+
+Before Training:
+
+Target:	 [0]  Output:	 [0.74052963]
+Target:	 [1]  Output:	 [0.80096878]
+Target:	 [1]  Output:	 [0.77178635]
+Target:	 [0]  Output:	 [0.82185634]
+
+Training:
+
+ Error at Epoch:	100		  is 	0.4987925949926231
+ Error at Epoch:	1000	  is 	0.10021475556181374
+ Error at Epoch:	10000	  is 	0.016893301756713174
+ Error at Epoch:	100000	  is 	0.005010015873156355
+ Error at Epoch:	1000000	  is 	0.0015506257796105698
+
+After Training :
+
+Target:	 [0]  Output:	 [0.00243261]
+Target:	 [1]  Output:	 [0.99846526]
+Target:	 [1]  Output:	 [0.99846408]
+Target:	 [0]  Output:	 [0.00069923]
+
+
+Accuracy = 0.9984493750067097
+
+-----------------------------------------------------------------------------
+
+Epochs = 1000000
+Learning rate = 0.5
+Hidden units = 6
+
+
+Before Training:
+
+Target:	 [0]  Output:	 [0.71851346]
+Target:	 [1]  Output:	 [0.76953827]
+Target:	 [1]  Output:	 [0.76338821]
+Target:	 [0]  Output:	 [0.80270865]
+
+Training:
+
+ Error at Epoch:	100		  is 	0.49938725963477526
+ Error at Epoch:	1000	  is 	0.2829575671677137
+ Error at Epoch:	10000	  is 	0.025780179011971056
+ Error at Epoch:	100000	  is 	0.006735960905644764
+ Error at Epoch:	1000000	  is 	0.0018367586159591855
+
+After Training :
+
+Target:	 [0]  Output:	 [0.00197769]
+Target:	 [1]  Output:	 [0.99802561]
+Target:	 [1]  Output:	 [0.99827067]
+Target:	 [0]  Output:	 [0.00166562]
+
+
+Accuracy = 0.9981632423132738
+
+-----------------------------------------------------------------------------
+
+Epochs = 1000000
+Learning rate = 0.25
+Hidden units = 6
+
+
+Before Training:
+
+Target:	 [0]  Output:	 [0.77307393]
+Target:	 [1]  Output:	 [0.83330883]
+Target:	 [1]  Output:	 [0.81528816]
+Target:	 [0]  Output:	 [0.85938038]
+
+Training:
+
+ Error at Epoch:	100		  is 	0.49885643103642463
+ Error at Epoch:	1000	  is 	0.40863495523905025
+ Error at Epoch:	10000	  is 	0.0395971207826565
+ Error at Epoch:	100000	  is 	0.010571356742520003
+ Error at Epoch:	1000000	  is 	0.0028197839175286557
+
+After Training :
+
+Target:	 [0]  Output:	 [0.00289014]
+Target:	 [1]  Output:	 [0.99735153]
+Target:	 [1]  Output:	 [0.99696465]
+Target:	 [0]  Output:	 [0.00270517]
+
+
+Accuracy = 0.997180217652527
+
+-----------------------------------------------------------------------------
+
+Epochs = 1000000
+Learning rate = 0.05
+Hidden units = 6
+
+
+Before Training:
+
+Target:	 [0]  Output:	 [0.82195308]
+Target:	 [1]  Output:	 [0.85574899]
+Target:	 [1]  Output:	 [0.85780708]
+Target:	 [0]  Output:	 [0.88417698]
+
+Training:
+
+ Error at Epoch:	100		  is 	0.5005113851374285
+ Error at Epoch:	1000	  is 	0.500298563970837
+ Error at Epoch:	10000	  is 	0.3539544018653854
+ Error at Epoch:	100000	  is 	0.025612027917160968
+ Error at Epoch:	1000000	  is 	0.006593271570188056
+
+After Training :
+
+Target:	 [0]  Output:	 [0.00685317]
+Target:	 [1]  Output:	 [0.99299047]
+Target:	 [1]  Output:	 [0.99370878]
+Target:	 [0]  Output:	 [0.00621916]
+
+
+Accuracy = 0.9934067321863354
+
+-----------------------------------------------------------------------------
+

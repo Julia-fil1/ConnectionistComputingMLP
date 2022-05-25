@@ -1,0 +1,81 @@
+Q3 LETTER TEST
+
+-----------------------------------------------------------------------------
+
+Epochs = 100000
+Learning rate = 5e-06
+Hidden units = 30
+
+
+ Error at Epoch:	5000	  is 	14.810010500084301
+ Error at Epoch:	10000	  is 	14.809981451140889
+ Error at Epoch:	15000	  is 	14.809952362832648
+ Error at Epoch:	20000	  is 	14.809923235050356
+ Error at Epoch:	25000	  is 	14.809894067684576
+ Error at Epoch:	30000	  is 	14.809864860625371
+ Error at Epoch:	35000	  is 	14.809835613762083
+ Error at Epoch:	40000	  is 	14.809806326983805
+ Error at Epoch:	45000	  is 	14.809777000179214
+ Error at Epoch:	50000	  is 	14.809747633236444
+ Error at Epoch:	55000	  is 	14.80971822604324
+ Error at Epoch:	60000	  is 	14.809688778486795
+ Error at Epoch:	65000	  is 	14.80965929045369
+ Error at Epoch:	70000	  is 	14.80962976183031
+ Error at Epoch:	75000	  is 	14.809600192502407
+ Error at Epoch:	80000	  is 	14.809570582355285
+ Error at Epoch:	85000	  is 	14.809540931273693
+ Error at Epoch:	90000	  is 	14.809511239141944
+ Error at Epoch:	95000	  is 	14.809481505843769
+ Error at Epoch:	100000	  is 	14.809451731262582
+-----------------------------------------------------------------------------
+Expected: U | Output: V
+Expected: M | Output: V
+Expected: I | Output: V
+Expected: S | Output: V
+Expected: N | Output: V
+Expected: N | Output: V
+Expected: J | Output: V
+Expected: R | Output: V
+Expected: L | Output: V
+Expected: M | Output: V
+Expected: O | Output: V
+Expected: H | Output: V
+Expected: P | Output: V
+Expected: J | Output: V
+
+-----------------------------------------------------------------------------
+
+Test sample size: 4000 | Correctly predicted sample size: 136
+Accuracy: 0.034
+
+-----------------------------------------------------------------------------
+
+A => Number of occurrences in the sample: 156 | Number of correct predictions: 0 | Accuracy: 0.0
+B => Number of occurrences in the sample: 136 | Number of correct predictions: 0 | Accuracy: 0.0
+C => Number of occurrences in the sample: 142 | Number of correct predictions: 0 | Accuracy: 0.0
+D => Number of occurrences in the sample: 167 | Number of correct predictions: 0 | Accuracy: 0.0
+E => Number of occurrences in the sample: 152 | Number of correct predictions: 0 | Accuracy: 0.0
+F => Number of occurrences in the sample: 153 | Number of correct predictions: 0 | Accuracy: 0.0
+G => Number of occurrences in the sample: 164 | Number of correct predictions: 0 | Accuracy: 0.0
+H => Number of occurrences in the sample: 151 | Number of correct predictions: 0 | Accuracy: 0.0
+I => Number of occurrences in the sample: 165 | Number of correct predictions: 0 | Accuracy: 0.0
+J => Number of occurrences in the sample: 148 | Number of correct predictions: 0 | Accuracy: 0.0
+K => Number of occurrences in the sample: 146 | Number of correct predictions: 0 | Accuracy: 0.0
+L => Number of occurrences in the sample: 157 | Number of correct predictions: 0 | Accuracy: 0.0
+M => Number of occurrences in the sample: 144 | Number of correct predictions: 0 | Accuracy: 0.0
+N => Number of occurrences in the sample: 166 | Number of correct predictions: 0 | Accuracy: 0.0
+O => Number of occurrences in the sample: 139 | Number of correct predictions: 0 | Accuracy: 0.0
+P => Number of occurrences in the sample: 168 | Number of correct predictions: 0 | Accuracy: 0.0
+Q => Number of occurrences in the sample: 168 | Number of correct predictions: 0 | Accuracy: 0.0
+R => Number of occurrences in the sample: 161 | Number of correct predictions: 0 | Accuracy: 0.0
+S => Number of occurrences in the sample: 161 | Number of correct predictions: 0 | Accuracy: 0.0
+T => Number of occurrences in the sample: 151 | Number of correct predictions: 0 | Accuracy: 0.0
+U => Number of occurrences in the sample: 168 | Number of correct predictions: 0 | Accuracy: 0.0
+V => Number of occurrences in the sample: 136 | Number of correct predictions: 136 | Accuracy: 1.0
+W => Number of occurrences in the sample: 139 | Number of correct predictions: 0 | Accuracy: 0.0
+X => Number of occurrences in the sample: 159 | Number of correct predictions: 0 | Accuracy: 0.0
+Y => Number of occurrences in the sample: 145 | Number of correct predictions: 0 | Accuracy: 0.0
+Z => Number of occurrences in the sample: 158 | Number of correct predictions: 0 | Accuracy: 0.0
+
+-----------------------------------------------------------------------------
+

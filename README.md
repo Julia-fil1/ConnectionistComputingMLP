@@ -1,0 +1,2 @@
+To run make sure to change the epochs, learning rates and number of hidden units as desired. The outputs will be printed directly to a file, there won't be any results printed to the console.
+The submission folder contains a report and a zipped project folder which includes the executables and output files.
